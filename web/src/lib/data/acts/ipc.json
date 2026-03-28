@@ -1,0 +1,59 @@
+{
+  "id": "IPC",
+  "title": "Indian Penal Code, 1860",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Introduction",
+      "sections": [
+        {
+          "section": "1",
+          "title": "Title and extent of operation of the Code",
+          "content": "This Act shall be called the Indian Penal Code, and shall extend to the whole of India."
+        },
+        {
+          "section": "2",
+          "title": "Punishment of offences committed within India",
+          "content": "Every person shall be liable to punishment under this Code and not otherwise for every act or omission contrary to the provisions thereof, of which he shall be guilty within India."
+        }
+      ]
+    },
+    {
+       "number": 2,
+       "title": "General Explanations",
+       "sections": [
+           {
+               "section": "6",
+               "title": "Definitions in the Code to be understood subject to exceptions",
+               "content": "Throughout this Code every definition of an offence, every penal provision, and every illustration of every such definition or penal provision, shall be understood subject to the exceptions contained in the Chapter entitled 'General Exceptions'."
+           },
+           {
+               "section": "11",
+               "title": "\"Person\"",
+               "content": "The word \"person\" includes any Company or Association or body of persons, whether incorporated or not."
+           }
+       ]
+    },
+    {
+        "number": 16,
+        "title": "Of Offences Affecting the Human Body",
+        "sections": [
+            {
+                "section": "299",
+                "title": "Culpable homicide",
+                "content": "Whoever causes death by doing an act with the intention of causing death, or with the intention of causing such bodily injury as is likely to cause death, or with the knowledge that he is likely by such act to cause death, commits the offence of culpable homicide."
+            },
+            {
+                "section": "300",
+                "title": "Murder",
+                "content": "Except in the cases hereinafter excepted, culpable homicide is murder, if the act by which the death is caused is done with the intention of causing death."
+            },
+            {
+                "section": "302",
+                "title": "Punishment for murder",
+                "content": "Whoever commits murder shall be punished with death, or imprisonment for life, and shall also be liable to fine."
+            }
+        ]
+    }
+  ]
+}

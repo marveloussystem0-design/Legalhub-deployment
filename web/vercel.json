@@ -1,0 +1,24 @@
+{
+  "crons": [
+    {
+      "path": "/api/cron/reminders",
+      "schedule": "30 2 * * *",
+      "comment": "Queue morning reminders at 8:00 AM IST (= 2:30 AM UTC)"
+    },
+    {
+      "path": "/api/cron/process-notifications?date=today",
+      "schedule": "0 3 * * *",
+      "comment": "Send morning push at 8:30 AM IST (= 3:00 AM UTC)"
+    },
+    {
+      "path": "/api/cron/reminders",
+      "schedule": "0 13 * * *",
+      "comment": "Queue evening reminders at 6:30 PM IST (= 13:00 UTC)"
+    },
+    {
+      "path": "/api/cron/process-notifications?date=tomorrow",
+      "schedule": "30 13 * * *",
+      "comment": "Send evening push at 7:00 PM IST (= 13:30 UTC)"
+    }
+  ]
+}

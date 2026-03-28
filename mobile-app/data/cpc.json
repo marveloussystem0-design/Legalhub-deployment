@@ -1,0 +1,59 @@
+{
+  "id": "CPC",
+  "title": "Code of Civil Procedure, 1908",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Preliminary",
+      "sections": [
+        {
+          "section": "9",
+          "title": "Courts to try all civil suits unless barred",
+          "content": "The Courts shall (subject to the provisions herein contained) have jurisdiction to try all suits of a civil nature excepting suits of which their cognizance is either expressly or impliedly barred."
+        },
+        {
+          "section": "10",
+          "title": "Stay of suit",
+          "content": "No Court shall proceed with the trial of any suit in which the matter in issue is also directly and substantially in issue in a previously instituted suit between the same parties."
+        },
+        {
+          "section": "11",
+          "title": "Res Judicata",
+          "content": "No Court shall try any suit or issue in which the matter directly and substantially in issue has been directly and substantially in issue in a former suit between the same parties, or between parties under whom they or any of them claim, litigating under the same title."
+        }
+      ]
+    },
+    {
+        "number": 2,
+        "title": "Place of Suing",
+        "sections": [
+            {
+                "section": "15",
+                "title": "Court in which suits to be instituted",
+                "content": "Every suit shall be instituted in the Court of the lowest grade competent to try it."
+            },
+            {
+                "section": "20",
+                "title": "Other suits to be instituted where defendants reside or cause of action arises",
+                "content": "Subject to the limitations aforesaid, every suit shall be instituted in a Court within the local limits of whose jurisdiction the defendant voluntarily resides or carries on business, or the cause of action, wholly or in part, arises."
+            }
+        ]
+    },
+    {
+      "number": 50,
+      "title": "Temporary Injunctions (Order XXXIX)",
+      "sections": [
+        {
+          "section": "Order 39 R1",
+          "title": "Cases in which temporary injunction may be granted",
+          "content": "Where in any suit it is proved by affidavit or otherwise that any property in dispute in a suit is in danger of being wasted, damaged or alienated by any party to the suit, or wrongfully sold in execution of a decree... the Court may by order grant a temporary injunction."
+        },
+        {
+          "section": "Order 39 R2",
+          "title": "Injunction to restrain repetition or continuance of breach",
+          "content": "In any suit for restraining the defendant from committing a breach of contract or other injury of any kind... the Plaintiff may, at any time after the commencement of the suit, apply to the Court for a temporary injunction to restrain the defendant."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1722 @@
+[
+  {
+    "state": "Tamil Nadu",
+    "districts": [
+      {
+        "name": "Ariyalur",
+        "courts": [
+          {
+            "name": "Principal District & Sessions Court",
+            "address": "Combined Court Complex, Vilangudi Road, Ariyalur, Tamil Nadu - 621704",
+            "mapParams": "Principal+District+Court+Ariyalur"
+          },
+          {
+            "name": "Chief Judicial Magistrate Court",
+            "address": "Combined Court Complex, Vilangudi Road, Ariyalur, Tamil Nadu - 621704",
+            "mapParams": "Chief+Judicial+Magistrate+Court+Ariyalur"
+          },
+          {
+            "name": "Judicial Magistrate Court No. I",
+            "address": "Combined Court Complex, Vilangudi Road, Ariyalur, Tamil Nadu - 621704",
+            "mapParams": "Judicial+Magistrate+Court+I+Ariyalur"
+          },
+          {
+            "name": "Judicial Magistrate Court No. II",
+            "address": "Combined Court Complex, Vilangudi Road, Ariyalur, Tamil Nadu - 621704",
+            "mapParams": "Judicial+Magistrate+Court+II+Ariyalur"
+          },
+          {
+            "name": "Sub Court, Jayankondam",
+            "address": "Sub Court Complex, Jayankondam, Ariyalur District, Tamil Nadu - 621802",
+            "mapParams": "Sub+Court+Jayankondam"
+          },
+          {
+            "name": "District Munsif Court, Jayankondam",
+            "address": "District Munsif Court Complex, Jayankondam, Ariyalur District, Tamil Nadu - 621802",
+            "mapParams": "District+Munsif+Court+Jayankondam"
+          },
+          {
+            "name": "Judicial Magistrate Court, Jayankondam",
+            "address": "Judicial Magistrate Court, Jayankondam, Ariyalur District, Tamil Nadu - 621802",
+            "mapParams": "Judicial+Magistrate+Court+Jayankondam"
+          },
+          {
+            "name": "District Munsif-cum-JM Court, Sendurai",
+            "address": "DM-cum-JM Court, Sendurai, Ariyalur District, Tamil Nadu - 621714",
+            "mapParams": "DM+cum+JM+Court+Sendurai"
+          }
+        ]
+      },
+      {
+    "name": "Chengalpattu",
+    "courts": [
+      {
+        "name": "Principal District & Sessions Court",
+        "address": "Combined Court Complex, Chengalpattu, Tamil Nadu - 603001",
+        "mapParams": "Principal+District+Court+Chengalpattu"
+      },
+      {
+        "name": "Chief Judicial Magistrate Court",
+        "address": "Combined Court Complex, Chengalpattu, Tamil Nadu - 603001",
+        "mapParams": "Chief+Judicial+Magistrate+Court+Chengalpattu"
+      },
+      {
+        "name": "Sub Court, Tambaram",
+        "address": "Court Campus, Tambaram, Chengalpattu District, Tamil Nadu - 600045",
+        "mapParams": "Sub+Court+Tambaram"
+      },
+      {
+        "name": "District Munsif Court, Madurantakam",
+        "address": "Court Campus, Madurantakam, Chengalpattu District, Tamil Nadu - 603306",
+        "mapParams": "District+Munsif+Court+Madurantakam"
+      },
+      {
+        "name": "District Munsif-cum-Judicial Magistrate Court, Tirukalukundram",
+        "address": "Court Campus, Tirukalukundram, Chengalpattu District, Tamil Nadu - 603109",
+        "mapParams": "District+Munsif+cum+Judicial+Magistrate+Court+Tirukalukundram"
+      }
+    ]
+  },
+      {
+        "name": "Chennai",
+        "courts": [
+          {
+            "name": "City Civil Court (Principal District & Sessions Court)",
+            "address": "City Civil Court Main Building, High Court Campus, George Town, Chennai - 600104",
+            "mapParams": "City+Civil+Court+Chennai+600104"
+          },
+          {
+            "name": "Additional District & Sessions Courts (I-XVI)",
+            "address": "City Civil Court Buildings, High Court Campus, George Town, Chennai - 600104",
+            "mapParams": "Additional+District+Court+Chennai+600104"
+          },
+          {
+            "name": "Court of Small Causes",
+            "address": "High Court Campus, George Town, Chennai - 600104",
+            "mapParams": "Court+of+Small+Causes+Chennai+600104"
+          },
+          {
+            "name": "Family Court I",
+            "address": "City Civil Court Annexe Building, High Court Campus, Chennai - 600104",
+            "mapParams": "Family+Court+I+Chennai+High+Court+Campus"
+          },
+          {
+            "name": "Family Court II",
+            "address": "City Civil Court Annexe Building, High Court Campus, Chennai - 600104",
+            "mapParams": "Family+Court+II+Chennai+High+Court+Campus"
+          },
+          {
+            "name": "Family Court III",
+            "address": "City Civil Court Annexe Building, High Court Campus, Chennai - 600104",
+            "mapParams": "Family+Court+III+Chennai+High+Court+Campus"
+          },
+          {
+            "name": "Commercial Court",
+            "address": "City Civil Court Complex, High Court Campus, Chennai - 600104",
+            "mapParams": "Commercial+Court+Chennai+600104"
+          },
+          {
+            "name": "Mahila Court (Sessions)",
+            "address": "High Court Campus, George Town, Chennai - 600104",
+            "mapParams": "Mahila+Court+Chennai+Sessions"
+          },
+          {
+            "name": "CBI Court (Special Court for CBI Cases)",
+            "address": "High Court Campus, George Town, Chennai - 600104",
+            "mapParams": "CBI+Court+Chennai+High+Court+Campus"
+          },
+          {
+            "name": "NDPS Special Court",
+            "address": "High Court Campus, George Town, Chennai - 600104",
+            "mapParams": "NDPS+Special+Court+Chennai"
+          },
+          {
+            "name": "Chief Metropolitan Magistrate Court, Egmore",
+            "address": "Allikulam Complex, Egmore, Chennai - 600008",
+            "mapParams": "Chief+Metropolitan+Magistrate+Court+Egmore+Chennai"
+          },
+          {
+            "name": "Metropolitan Magistrate Court No. I, Egmore",
+            "address": "Allikulam Complex, Egmore, Chennai - 600008",
+            "mapParams": "Metropolitan+Magistrate+Court+I+Egmore+Chennai"
+          },
+          {
+            "name": "Metropolitan Magistrate Court No. II, Egmore",
+            "address": "Allikulam Complex, Egmore, Chennai - 600008",
+            "mapParams": "Metropolitan+Magistrate+Court+II+Egmore+Chennai"
+          },
+          {
+            "name": "Metropolitan Magistrate Court No. III, Egmore",
+            "address": "Allikulam Complex, Egmore, Chennai - 600008",
+            "mapParams": "Metropolitan+Magistrate+Court+III+Egmore+Chennai"
+          },
+          {
+            "name": "Metropolitan Magistrate Court (Traffic), Egmore",
+            "address": "Allikulam Complex, Egmore, Chennai - 600008",
+            "mapParams": "Metropolitan+Magistrate+Court+Traffic+Egmore+Chennai"
+          },
+          {
+            "name": "Metropolitan Magistrate Court, George Town",
+            "address": "NSC Bose Road Court Complex, George Town, Chennai - 600001",
+            "mapParams": "Metropolitan+Magistrate+Court+George+Town+Chennai"
+          },
+          {
+            "name": "Metropolitan Magistrate (Traffic) Court, George Town",
+            "address": "NSC Bose Road Court Complex, Chennai - 600001",
+            "mapParams": "Metropolitan+Magistrate+Traffic+Court+George+Town+Chennai"
+          },
+          {
+            "name": "Metropolitan Magistrate Court, Saidapet",
+            "address": "Court Complex, Saidapet, Chennai - 600015",
+            "mapParams": "Metropolitan+Magistrate+Court+Saidapet+Chennai"
+          },
+          {
+            "name": "Metropolitan Magistrate (Traffic), Saidapet",
+            "address": "Court Complex, Saidapet, Chennai - 600015",
+            "mapParams": "Metropolitan+Magistrate+Traffic+Saidapet+Chennai"
+          },
+          {
+            "name": "Principal District & Sessions Court, Poonamallee",
+            "address": "Court Complex, Poonamallee, Chennai - 600056",
+            "mapParams": "Principal+District+Sessions+Court+Poonamallee+Chennai"
+          },
+          {
+            "name": "Bomb Blast Special Court, Poonamallee",
+            "address": "Court Complex, Poonamallee, Chennai - 600056",
+            "mapParams": "Bomb+Blast+Special+Court+Poonamallee"
+          },
+          {
+            "name": "Mahila Court, Poonamallee",
+            "address": "Court Complex, Poonamallee, Chennai - 600056",
+            "mapParams": "Mahila+Court+Poonamallee"
+          },
+          {
+            "name": "Metropolitan Magistrate Court, Poonamallee",
+            "address": "Court Complex, Poonamallee, Chennai - 600056",
+            "mapParams": "Metropolitan+Magistrate+Court+Poonamallee+Chennai"
+          },
+          {
+            "name": "District Munsif Court, Ambattur",
+            "address": "Court Complex, Ambattur, Chennai - 600053",
+            "mapParams": "District+Munsif+Court+Ambattur+Chennai"
+          },
+          {
+            "name": "Judicial Magistrate Court, Ambattur",
+            "address": "Court Complex, Ambattur, Chennai - 600053",
+            "mapParams": "Judicial+Magistrate+Court+Ambattur+Chennai"
+          },
+          {
+            "name": "District Munsif Court, Alandur",
+            "address": "Court Complex, Alandur, Chennai - 600016",
+            "mapParams": "District+Munsif+Court+Alandur+Chennai"
+          },
+          {
+            "name": "Judicial Magistrate Court, Alandur",
+            "address": "Court Complex, Alandur, Chennai - 600016",
+            "mapParams": "Judicial+Magistrate+Court+Alandur+Chennai"
+          },
+          {
+            "name": "Special Court for POCSO Cases, Chennai",
+            "address": "High Court Campus / Egmore Complex, Chennai - 600104 / 600008",
+            "mapParams": "Special+Court+for+POCSO+Cases+Chennai"
+          },
+          {
+            "name": "Special Court for Economic Offences, Chennai",
+            "address": "High Court Campus, George Town, Chennai - 600104",
+            "mapParams": "Special+Court+for+Economic+Offences+Chennai"
+          },
+          {
+            "name": "Motor Accident Claims Tribunal (MACT), Chennai",
+            "address": "City Civil Court Complex, High Court Campus, Chennai - 600104",
+            "mapParams": "Motor+Accident+Claims+Tribunal+MACT+Chennai"
+          },
+          {
+            "name": "Labour Court, Chennai",
+            "address": "High Court Campus Annexe, George Town, Chennai - 600104",
+            "mapParams": "Labour+Court+Chennai+High+Court+Campus"
+          },
+          {
+            "name": "TN State Consumer Disputes Redressal Commission",
+            "address": "TNPSC Road, Park Town, Chennai - 600003",
+            "mapParams": "Tamil+Nadu+State+Consumer+Disputes+Redressal+Commission+Chennai"
+          },
+          {
+            "name": "Additional Small Causes Court Bench I",
+            "address": "High Court Campus, Chennai - 600104",
+            "mapParams": "Additional+Small+Causes+Court+Bench+I+Chennai"
+          },
+          {
+            "name": "Additional Small Causes Court Bench II",
+            "address": "High Court Campus, Chennai - 600104",
+            "mapParams": "Additional+Small+Causes+Court+Bench+II+Chennai"
+          },
+          {
+            "name": "Assistant Judge Court I",
+            "address": "City Civil Court Complex, Chennai - 600104",
+            "mapParams": "Assistant+Judge+Court+I+Chennai"
+          },
+          {
+            "name": "Assistant Judge Court II",
+            "address": "City Civil Court Complex, Chennai - 600104",
+            "mapParams": "Assistant+Judge+Court+II+Chennai"
+          },
+          {
+            "name": "Assistant Judge Court III",
+            "address": "City Civil Court Complex, Chennai - 600104",
+            "mapParams": "Assistant+Judge+Court+III+Chennai"
+          }
+        ]
+      },
+      {
+        "name": "Coimbatore",
+        "courts": [
+          {
+            "name": "Principal District & Sessions Court",
+            "address": "Combined Court Complex, Huzur Road, Gopalapuram, Coimbatore - 641018",
+            "mapParams": "Combined+Court+Complex+Coimbatore+641018"
+          },
+          {
+            "name": "Family Court",
+            "address": "Combined Court Complex, Gopalapuram, Coimbatore - 641018",
+            "mapParams": "Family+Court+Coimbatore+641018"
+          },
+          {
+            "name": "Bomb Blast Special Court",
+            "address": "Combined Court Complex, Gopalapuram, Coimbatore - 641018",
+            "mapParams": "Bomb+Blast+Court+Coimbatore"
+          },
+          {
+            "name": "Commercial Court",
+            "address": "Combined Court Complex, Gopalapuram, Coimbatore - 641018",
+            "mapParams": "Commercial+Court+Coimbatore+641018"
+          },
+          {
+            "name": "Combined Courts, Mettupalayam",
+            "address": "Combined Courts Complex, Mettupalayam, Coimbatore District, Tamil Nadu - 641301",
+            "mapParams": "Mettupalayam+Combined+Courts"
+          },
+          {
+            "name": "Combined Courts, Pollachi (District/Sub Court)",
+            "address": "Combined Courts Building, Pollachi, Coimbatore District, Tamil Nadu - 642001",
+            "mapParams": "Pollachi+Combined+Courts"
+          },
+          {
+            "name": "Combined Courts, Sulur",
+            "address": "Combined Courts, Sulur, Coimbatore District, Tamil Nadu",
+            "mapParams": "Combined+Courts+Sulur+Coimbatore"
+          },
+          {
+            "name": "DM cum JM Court, Annur",
+            "address": "Munsif-cum-Judicial Magistrate Court, Annur, Coimbatore District, Tamil Nadu",
+            "mapParams": "DM+cum+JM+Court+Annur+Coimbatore"
+          },
+          {
+            "name": "DM cum JM Court, Madukkarai",
+            "address": "DM-cum-JM Court, Madukkarai, Coimbatore District, Tamil Nadu",
+            "mapParams": "Madukkarai+Court+Coimbatore"
+          },
+          {
+            "name": "DM cum JM Court, Valparai",
+            "address": "DM-cum-JM Court, Valparai, Coimbatore District, Tamil Nadu",
+            "mapParams": "Valparai+Court+Coimbatore"
+          },
+          {
+            "name": "Sub Court, Pollachi",
+            "address": "Sub Court Complex, Pollachi, Coimbatore District, Tamil Nadu",
+            "mapParams": "Sub+Court+Pollachi"
+          }
+        ]
+      },
+      {
+        "name": "Cuddalore",
+        "courts": [
+          {
+            "name": "Principal District & Sessions Court",
+            "address": "Combined Court Complex, Manjakuppam, Cuddalore - 607001, Tamil Nadu",
+            "mapParams": "Principal+District+Court+Cuddalore"
+          },
+          {
+            "name": "I Additional District & Sessions Court",
+            "address": "Combined Court Complex, Manjakuppam, Cuddalore - 607001, Tamil Nadu",
+            "mapParams": "I+Additional+District+Court+Cuddalore"
+          },
+          {
+            "name": "II Additional District & Sessions Court",
+            "address": "Combined Court Complex, Manjakuppam, Cuddalore - 607001, Tamil Nadu",
+            "mapParams": "II+Additional+District+Court+Cuddalore"
+          },
+          {
+            "name": "Chief Judicial Magistrate Court",
+            "address": "Combined Court Complex, Manjakuppam, Cuddalore - 607001, Tamil Nadu",
+            "mapParams": "Chief+Judicial+Magistrate+Court+Cuddalore"
+          },
+          {
+            "name": "Judicial Magistrate Court No. I",
+            "address": "Combined Court Complex, Manjakuppam, Cuddalore - 607001, Tamil Nadu",
+            "mapParams": "Judicial+Magistrate+Court+I+Cuddalore"
+          },
+          {
+            "name": "Judicial Magistrate Court No. II",
+            "address": "Combined Court Complex, Manjakuppam, Cuddalore - 607001, Tamil Nadu",
+            "mapParams": "Judicial+Magistrate+Court+II+Cuddalore"
+          },
+          {
+            "name": "Principal Sub Court",
+            "address": "Combined Court Complex, Manjakuppam, Cuddalore - 607001, Tamil Nadu",
+            "mapParams": "Principal+Sub+Court+Cuddalore"
+          },
+          {
+            "name": "Special Sub Court (MCOP)",
+            "address": "Combined Court Complex, Manjakuppam, Cuddalore - 607001, Tamil Nadu",
+            "mapParams": "Special+Sub+Court+MCOP+Cuddalore"
+          },
+          {
+            "name": "Special Sub Court (LAOP)",
+            "address": "Combined Court Complex, Manjakuppam, Cuddalore - 607001, Tamil Nadu",
+            "mapParams": "Special+Sub+Court+LAOP+Cuddalore"
+          },
+          {
+            "name": "Labour Court",
+            "address": "Labour Court Campus, Cuddalore - 607001, Tamil Nadu",
+            "mapParams": "Labour+Court+Cuddalore"
+          },
+          {
+            "name": "Mahila Court (Women's Court)",
+            "address": "Combined Court Complex, Manjakuppam, Cuddalore - 607001, Tamil Nadu",
+            "mapParams": "Mahila+Court+Cuddalore"
+          },
+          {
+            "name": "Sub Court, Panruti",
+            "address": "Court Campus, Panruti, Cuddalore District - 607106, Tamil Nadu",
+            "mapParams": "Sub+Court+Panruti"
+          },
+          {
+            "name": "District Munsif Court, Panruti",
+            "address": "Court Campus, Panruti, Cuddalore District - 607106, Tamil Nadu",
+            "mapParams": "District+Munsif+Court+Panruti"
+          },
+          {
+            "name": "Judicial Magistrate Court, Panruti",
+            "address": "Court Campus, Panruti, Cuddalore District - 607106, Tamil Nadu",
+            "mapParams": "Judicial+Magistrate+Court+Panruti"
+          },
+          {
+            "name": "Sub Court, Vridhachalam",
+            "address": "Court Complex, Vridhachalam, Cuddalore District - 606001, Tamil Nadu",
+            "mapParams": "Sub+Court+Vridhachalam"
+          },
+          {
+            "name": "District Munsif Court, Vridhachalam",
+            "address": "Court Complex, Vridhachalam, Cuddalore District - 606001, Tamil Nadu",
+            "mapParams": "District+Munsif+Court+Vridhachalam"
+          },
+          {
+            "name": "Judicial Magistrate Court, Vridhachalam",
+            "address": "Court Complex, Vridhachalam, Cuddalore District - 606001, Tamil Nadu",
+            "mapParams": "Judicial+Magistrate+Court+Vridhachalam"
+          },
+          {
+            "name": "District Munsif Court, Chidambaram",
+            "address": "Court Campus, Chidambaram, Cuddalore District - 608001, Tamil Nadu",
+            "mapParams": "District+Munsif+Court+Chidambaram"
+          },
+          {
+            "name": "Judicial Magistrate Court No. I, Chidambaram",
+            "address": "Court Campus, Chidambaram, Cuddalore District - 608001, Tamil Nadu",
+            "mapParams": "Judicial+Magistrate+Court+I+Chidambaram"
+          },
+          {
+            "name": "Judicial Magistrate Court No. II, Chidambaram",
+            "address": "Court Campus, Chidambaram, Cuddalore District - 608001, Tamil Nadu",
+            "mapParams": "Judicial+Magistrate+Court+II+Chidambaram"
+          }
+        ]
+      },
+      {
+  "name": "Dharmapuri",
+  "courts": [
+    {
+      "name": "Principal District & Sessions Court",
+      "address": "Combined Court Complex, Dharmapuri, Tamil Nadu - 636701",
+      "mapParams": "Principal+District+Court+Dharmapuri"
+    },
+    {
+      "name": "Additional District & Sessions Court",
+      "address": "Combined Court Complex, Dharmapuri, Tamil Nadu - 636701",
+      "mapParams": "Additional+District+Court+Dharmapuri"
+    },
+    {
+      "name": "Chief Judicial Magistrate Court",
+      "address": "Combined Court Complex, Dharmapuri, Tamil Nadu - 636701",
+      "mapParams": "Chief+Judicial+Magistrate+Court+Dharmapuri"
+    },
+    {
+      "name": "Judicial Magistrate Court No. I",
+      "address": "Combined Court Complex, Dharmapuri, Tamil Nadu - 636701",
+      "mapParams": "Judicial+Magistrate+Court+I+Dharmapuri"
+    },
+    {
+      "name": "Judicial Magistrate Court No. II",
+      "address": "Combined Court Complex, Dharmapuri, Tamil Nadu - 636701",
+      "mapParams": "Judicial+Magistrate+Court+II+Dharmapuri"
+    },
+    {
+      "name": "Principal Sub Court",
+      "address": "Combined Court Complex, Dharmapuri, Tamil Nadu - 636701",
+      "mapParams": "Principal+Sub+Court+Dharmapuri"
+    },
+    {
+      "name": "District Munsif Court",
+      "address": "Combined Court Complex, Dharmapuri, Tamil Nadu - 636701",
+      "mapParams": "District+Munsif+Court+Dharmapuri"
+    },
+    {
+      "name": "Sub Court, Harur",
+      "address": "Court Complex, Harur, Dharmapuri District, Tamil Nadu - 636903",
+      "mapParams": "Sub+Court+Harur"
+    },
+    {
+      "name": "District Munsif Court, Harur",
+      "address": "Court Complex, Harur, Dharmapuri District, Tamil Nadu - 636903",
+      "mapParams": "District+Munsif+Court+Harur"
+    },
+    {
+      "name": "Judicial Magistrate Court, Harur",
+      "address": "Court Complex, Harur, Dharmapuri District, Tamil Nadu - 636903",
+      "mapParams": "Judicial+Magistrate+Court+Harur"
+    },
+    {
+      "name": "District Munsif-cum-Judicial Magistrate Court, Pennagaram",
+      "address": "Court Campus, Pennagaram, Dharmapuri District, Tamil Nadu - 636810",
+      "mapParams": "District+Munsif+cum+Judicial+Magistrate+Court+Pennagaram"
+    },
+    {
+      "name": "District Munsif-cum-Judicial Magistrate Court, Pappireddipatti",
+      "address": "Court Campus, Pappireddipatti, Dharmapuri District, Tamil Nadu - 636905",
+      "mapParams": "District+Munsif+cum+Judicial+Magistrate+Court+Pappireddipatti"
+    }
+  ]
+},
+      {
+  "name": "Dindigul",
+  "courts": [
+    {
+      "name": "Principal District & Sessions Court",
+      "address": "Combined Court Complex, Dindigul, Tamil Nadu - 624001",
+      "mapParams": "Principal+District+Court+Dindigul"
+    },
+    {
+      "name": "Additional District & Sessions Court",
+      "address": "Combined Court Complex, Dindigul, Tamil Nadu - 624001",
+      "mapParams": "Additional+District+Court+Dindigul"
+    },
+    {
+      "name": "Chief Judicial Magistrate Court",
+      "address": "Combined Court Complex, Dindigul, Tamil Nadu - 624001",
+      "mapParams": "Chief+Judicial+Magistrate+Court+Dindigul"
+    },
+    {
+      "name": "Judicial Magistrate Court No. I",
+      "address": "Combined Court Complex, Dindigul, Tamil Nadu - 624001",
+      "mapParams": "Judicial+Magistrate+Court+I+Dindigul"
+    },
+    {
+      "name": "Judicial Magistrate Court No. II",
+      "address": "Combined Court Complex, Dindigul, Tamil Nadu - 624001",
+      "mapParams": "Judicial+Magistrate+Court+II+Dindigul"
+    },
+    {
+      "name": "Family Court",
+      "address": "Combined Court Complex, Dindigul, Tamil Nadu - 624001",
+      "mapParams": "Family+Court+Dindigul"
+    },
+    {
+      "name": "Motor Accident Claims Tribunal (MACT)",
+      "address": "Combined Court Complex, Dindigul, Tamil Nadu - 624001",
+      "mapParams": "MACT+Dindigul"
+    },
+    {
+      "name": "Sub Court, Palani",
+      "address": "Court Complex, Palani, Dindigul District, Tamil Nadu - 624601",
+      "mapParams": "Sub+Court+Palani"
+    },
+    {
+      "name": "District Munsif Court, Palani",
+      "address": "Court Complex, Palani, Dindigul District, Tamil Nadu - 624601",
+      "mapParams": "District+Munsif+Court+Palani"
+    },
+    {
+      "name": "Judicial Magistrate Court, Palani",
+      "address": "Court Complex, Palani, Dindigul District, Tamil Nadu - 624601",
+      "mapParams": "Judicial+Magistrate+Court+Palani"
+    },
+    {
+      "name": "District Munsif Court, Nilakottai",
+      "address": "Court Campus, Nilakottai, Dindigul District, Tamil Nadu - 624208",
+      "mapParams": "District+Munsif+Court+Nilakottai"
+    },
+    {
+      "name": "Judicial Magistrate Court, Nilakottai",
+      "address": "Court Campus, Nilakottai, Dindigul District, Tamil Nadu - 624208",
+      "mapParams": "Judicial+Magistrate+Court+Nilakottai"
+    },
+    {
+      "name": "District Munsif-cum-Judicial Magistrate Court, Vedasandur",
+      "address": "Court Campus, Vedasandur, Dindigul District, Tamil Nadu - 624710",
+      "mapParams": "District+Munsif+cum+Judicial+Magistrate+Court+Vedasandur"
+    },
+    {
+      "name": "District Munsif-cum-Judicial Magistrate Court, Oddanchatram",
+      "address": "Court Campus, Oddanchatram, Dindigul District, Tamil Nadu - 624619",
+      "mapParams": "District+Munsif+cum+Judicial+Magistrate+Court+Oddanchatram"
+    }
+  ]
+},
+      {
+      "name": "Erode",
+      "courts": [
+        {
+          "name": "Principal District & Sessions Court",
+          "address": "Combined Court Complex, Erode, Tamil Nadu - 638011",
+          "mapParams": "Principal+District+Court+Erode"
+        },
+        {
+          "name": "Additional District & Sessions Court",
+          "address": "Combined Court Complex, Erode, Tamil Nadu - 638011",
+          "mapParams": "Additional+District+Court+Erode"
+        },
+        {
+          "name": "Family Court",
+          "address": "Combined Court Complex, Erode, Tamil Nadu - 638011",
+          "mapParams": "Family+Court+Erode"
+        },
+        {
+          "name": "Chief Judicial Magistrate Court",
+          "address": "Combined Court Complex, Erode, Tamil Nadu - 638011",
+          "mapParams": "Chief+Judicial+Magistrate+Court+Erode"
+        },
+        {
+          "name": "Motor Accident Claims Tribunal (MACT)",
+          "address": "Combined Court Complex, Erode, Tamil Nadu - 638011",
+          "mapParams": "MACT+Erode"
+        },
+        {
+          "name": "Sub Court, Gobichettipalayam",
+          "address": "Court Complex, Gobichettipalayam, Erode District, Tamil Nadu - 638452",
+          "mapParams": "Sub+Court+Gobichettipalayam"
+        },
+        {
+          "name": "District Munsif Court, Gobichettipalayam",
+          "address": "Court Complex, Gobichettipalayam, Erode District, Tamil Nadu - 638452",
+          "mapParams": "District+Munsif+Court+Gobichettipalayam"
+        },
+        {
+          "name": "District Munsif Court, Sathyamangalam",
+          "address": "Court Campus, Sathyamangalam, Erode District, Tamil Nadu - 638401",
+          "mapParams": "District+Munsif+Court+Sathyamangalam"
+        },
+        {
+          "name": "District Munsif Court, Bhavani",
+          "address": "Court Campus, Bhavani, Erode District, Tamil Nadu - 638301",
+          "mapParams": "District+Munsif+Court+Bhavani"
+        },
+        {
+          "name": "District Munsif-cum-Judicial Magistrate Court, Perundurai",
+          "address": "Court Campus, Perundurai, Erode District, Tamil Nadu - 638052",
+          "mapParams": "District+Munsif+cum+Judicial+Magistrate+Court+Perundurai"
+        },
+        {
+          "name": "District Munsif-cum-Judicial Magistrate Court, Kodumudi",
+          "address": "Court Campus, Kodumudi, Erode District, Tamil Nadu - 638151",
+          "mapParams": "District+Munsif+cum+Judicial+Magistrate+Court+Kodumudi"
+        }
+      ]
+    },
+    {
+      "name": "Kallakurichi",
+      "courts": [
+        {
+          "name": "Principal District & Sessions Court",
+          "address": "Combined Court Complex, Kallakurichi, Tamil Nadu - 606202",
+          "mapParams": "Principal+District+Court+Kallakurichi"
+        },
+        {
+          "name": "Additional District & Sessions Court",
+          "address": "Combined Court Complex, Kallakurichi, Tamil Nadu - 606202",
+          "mapParams": "Additional+District+Court+Kallakurichi"
+        },
+        {
+          "name": "Chief Judicial Magistrate Court",
+          "address": "Combined Court Complex, Kallakurichi, Tamil Nadu - 606202",
+          "mapParams": "Chief+Judicial+Magistrate+Court+Kallakurichi"
+        },
+        {
+          "name": "Sub Court, Kallakurichi",
+          "address": "Combined Court Complex, Kallakurichi, Tamil Nadu - 606202",
+          "mapParams": "Sub+Court+Kallakurichi"
+        },
+        {
+          "name": "Motor Accident Claims Tribunal (MACT)",
+          "address": "Combined Court Complex, Kallakurichi, Tamil Nadu - 606202",
+          "mapParams": "MACT+Kallakurichi"
+        },
+        {
+          "name": "District Munsif Court, Chinnasalem",
+          "address": "Court Campus, Chinnasalem, Kallakurichi District, Tamil Nadu - 606201",
+          "mapParams": "District+Munsif+Court+Chinnasalem"
+        },
+        {
+          "name": "Judicial Magistrate Court, Chinnasalem",
+          "address": "Court Campus, Chinnasalem, Kallakurichi District, Tamil Nadu - 606201",
+          "mapParams": "Judicial+Magistrate+Court+Chinnasalem"
+        },
+        {
+          "name": "District Munsif-cum-Judicial Magistrate Court, Sankarapuram",
+          "address": "Court Campus, Sankarapuram, Kallakurichi District, Tamil Nadu - 606401",
+          "mapParams": "District+Munsif+cum+Judicial+Magistrate+Court+Sankarapuram"
+        },
+        {
+          "name": "District Munsif-cum-Judicial Magistrate Court, Ulundurpet",
+          "address": "Court Campus, Ulundurpet, Kallakurichi District, Tamil Nadu - 606107",
+          "mapParams": "District+Munsif+cum+Judicial+Magistrate+Court+Ulundurpet"
+        }
+      ]
+    },
+      {
+    "name": "Kanchipuram",
+    "courts": [
+      {
+        "name": "Principal District & Sessions Court",
+        "address": "Combined Court Complex, Kancheepuram, Tamil Nadu - 631501",
+        "mapParams": "Principal+District+Court+Kancheepuram"
+      },
+      {
+        "name": "Additional District & Sessions Court",
+        "address": "Combined Court Complex, Kancheepuram, Tamil Nadu - 631501",
+        "mapParams": "Additional+District+Court+Kancheepuram"
+      },
+      {
+        "name": "Chief Judicial Magistrate Court",
+        "address": "Combined Court Complex, Kancheepuram, Tamil Nadu - 631501",
+        "mapParams": "Chief+Judicial+Magistrate+Court+Kancheepuram"
+      },
+      {
+        "name": "Sub Court, Kancheepuram",
+        "address": "Combined Court Complex, Kancheepuram, Tamil Nadu - 631501",
+        "mapParams": "Sub+Court+Kancheepuram"
+      },
+      {
+        "name": "District Munsif Court, Sriperumbudur",
+        "address": "Court Campus, Sriperumbudur, Kancheepuram District, Tamil Nadu - 602105",
+        "mapParams": "District+Munsif+Court+Sriperumbudur"
+      },
+      {
+        "name": "District Munsif-cum-Judicial Magistrate Court, Uthiramerur",
+        "address": "Court Campus, Uthiramerur, Kancheepuram District, Tamil Nadu - 603406",
+        "mapParams": "District+Munsif+cum+Judicial+Magistrate+Court+Uthiramerur"
+      }
+    ]
+  },
+  {
+    "name": "Kanniyakumari",
+    "courts": [
+      {
+        "name": "Principal District & Sessions Court",
+        "address": "Combined Court Complex, Nagercoil, Kanniyakumari District, Tamil Nadu - 629001",
+        "mapParams": "Principal+District+Court+Nagercoil"
+      },
+      {
+        "name": "Additional District & Sessions Court",
+        "address": "Combined Court Complex, Nagercoil, Kanniyakumari District, Tamil Nadu - 629001",
+        "mapParams": "Additional+District+Court+Nagercoil"
+      },
+      {
+        "name": "Family Court",
+        "address": "Combined Court Complex, Nagercoil, Kanniyakumari District, Tamil Nadu - 629001",
+        "mapParams": "Family+Court+Nagercoil"
+      },
+      {
+        "name": "Chief Judicial Magistrate Court",
+        "address": "Combined Court Complex, Nagercoil, Kanniyakumari District, Tamil Nadu - 629001",
+        "mapParams": "Chief+Judicial+Magistrate+Court+Nagercoil"
+      },
+      {
+        "name": "Sub Court, Padmanabhapuram",
+        "address": "Court Campus, Padmanabhapuram, Kanniyakumari District, Tamil Nadu - 629175",
+        "mapParams": "Sub+Court+Padmanabhapuram"
+      },
+      {
+        "name": "District Munsif Court, Kuzhithurai",
+        "address": "Court Campus, Kuzhithurai, Kanniyakumari District, Tamil Nadu - 629163",
+        "mapParams": "District+Munsif+Court+Kuzhithurai"
+      }
+    ]
+  },
+  {
+    "name": "Karur",
+    "courts": [
+      {
+        "name": "Principal District & Sessions Court",
+        "address": "Combined Court Complex, Karur, Tamil Nadu - 639001",
+        "mapParams": "Principal+District+Court+Karur"
+      },
+      {
+        "name": "Chief Judicial Magistrate Court",
+        "address": "Combined Court Complex, Karur, Tamil Nadu - 639001",
+        "mapParams": "Chief+Judicial+Magistrate+Court+Karur"
+      },
+      {
+        "name": "Sub Court, Karur",
+        "address": "Combined Court Complex, Karur, Tamil Nadu - 639001",
+        "mapParams": "Sub+Court+Karur"
+      },
+      {
+        "name": "District Munsif Court, Kulithalai",
+        "address": "Court Campus, Kulithalai, Karur District, Tamil Nadu - 639104",
+        "mapParams": "District+Munsif+Court+Kulithalai"
+      },
+      {
+        "name": "District Munsif-cum-Judicial Magistrate Court, Krishnarayapuram",
+        "address": "Court Campus, Krishnarayapuram, Karur District, Tamil Nadu - 639102",
+        "mapParams": "District+Munsif+cum+Judicial+Magistrate+Court+Krishnarayapuram"
+      }
+    ]
+  },
+        {
+    "name": "Krishnagiri",
+    "courts": [
+      {
+        "name": "Principal District & Sessions Court",
+        "address": "Combined Court Complex, Krishnagiri, Tamil Nadu - 635001",
+        "mapParams": "Principal+District+Court+Krishnagiri"
+      },
+      {
+        "name": "Additional District & Sessions Court",
+        "address": "Combined Court Complex, Krishnagiri, Tamil Nadu - 635001",
+        "mapParams": "Additional+District+Court+Krishnagiri"
+      },
+      {
+        "name": "Chief Judicial Magistrate Court",
+        "address": "Combined Court Complex, Krishnagiri, Tamil Nadu - 635001",
+        "mapParams": "Chief+Judicial+Magistrate+Court+Krishnagiri"
+      },
+      {
+        "name": "Sub Court, Hosur",
+        "address": "Court Complex, Hosur, Krishnagiri District, Tamil Nadu - 635109",
+        "mapParams": "Sub+Court+Hosur"
+      },
+      {
+        "name": "District Munsif Court, Hosur",
+        "address": "Court Complex, Hosur, Krishnagiri District, Tamil Nadu - 635109",
+        "mapParams": "District+Munsif+Court+Hosur"
+      },
+      {
+        "name": "District Munsif Court, Denkanikottai",
+        "address": "Court Campus, Denkanikottai, Krishnagiri District, Tamil Nadu - 635107",
+        "mapParams": "District+Munsif+Court+Denkanikottai"
+      },
+      {
+        "name": "District Munsif-cum-Judicial Magistrate Court, Uthangarai",
+        "address": "Court Campus, Uthangarai, Krishnagiri District, Tamil Nadu - 635207",
+        "mapParams": "District+Munsif+cum+Judicial+Magistrate+Court+Uthangarai"
+      }
+    ]
+  },
+  {
+    "name": "Madurai",
+    "courts": [
+      {
+        "name": "Principal District & Sessions Court",
+        "address": "Combined Court Complex, Melur Road, Madurai, Tamil Nadu - 625020",
+        "mapParams": "Principal+District+Court+Madurai"
+      },
+      {
+        "name": "Additional District & Sessions Courts (I–VI)",
+        "address": "Combined Court Complex, Melur Road, Madurai, Tamil Nadu - 625020",
+        "mapParams": "Additional+District+Court+Madurai"
+      },
+      {
+        "name": "Family Court",
+        "address": "Combined Court Complex, Melur Road, Madurai, Tamil Nadu - 625020",
+        "mapParams": "Family+Court+Madurai"
+      },
+      {
+        "name": "Chief Judicial Magistrate Court",
+        "address": "Combined Court Complex, Melur Road, Madurai, Tamil Nadu - 625020",
+        "mapParams": "Chief+Judicial+Magistrate+Court+Madurai"
+      },
+      {
+        "name": "Motor Accident Claims Tribunal (MACT)",
+        "address": "Combined Court Complex, Melur Road, Madurai, Tamil Nadu - 625020",
+        "mapParams": "MACT+Madurai"
+      },
+      {
+        "name": "Sub Court, Tirumangalam",
+        "address": "Court Complex, Tirumangalam, Madurai District, Tamil Nadu - 625706",
+        "mapParams": "Sub+Court+Tirumangalam"
+      },
+      {
+        "name": "District Munsif Court, Usilampatti",
+        "address": "Court Campus, Usilampatti, Madurai District, Tamil Nadu - 625532",
+        "mapParams": "District+Munsif+Court+Usilampatti"
+      },
+      {
+        "name": "District Munsif Court, Melur",
+        "address": "Court Campus, Melur, Madurai District, Tamil Nadu - 625106",
+        "mapParams": "District+Munsif+Court+Melur"
+      }
+    ]
+  },
+        {
+    "name": "Mayiladuthurai",
+    "courts": [
+      {
+        "name": "Principal District & Sessions Court",
+        "address": "Combined Court Complex, Mayiladuthurai, Tamil Nadu - 609001",
+        "mapParams": "Principal+District+Court+Mayiladuthurai"
+      },
+      {
+        "name": "Chief Judicial Magistrate Court",
+        "address": "Combined Court Complex, Mayiladuthurai, Tamil Nadu - 609001",
+        "mapParams": "Chief+Judicial+Magistrate+Court+Mayiladuthurai"
+      },
+      {
+        "name": "Sub Court, Mayiladuthurai",
+        "address": "Combined Court Complex, Mayiladuthurai, Tamil Nadu - 609001",
+        "mapParams": "Sub+Court+Mayiladuthurai"
+      },
+      {
+        "name": "District Munsif Court, Sirkazhi",
+        "address": "Court Campus, Sirkazhi, Mayiladuthurai District, Tamil Nadu - 609110",
+        "mapParams": "District+Munsif+Court+Sirkazhi"
+      },
+      {
+        "name": "District Munsif-cum-Judicial Magistrate Court, Kuthalam",
+        "address": "Court Campus, Kuthalam, Mayiladuthurai District, Tamil Nadu - 609801",
+        "mapParams": "District+Munsif+cum+Judicial+Magistrate+Court+Kuthalam"
+      }
+    ]
+  },
+  {
+    "name": "Nagapattinam",
+    "courts": [
+      {
+        "name": "Principal District & Sessions Court",
+        "address": "Combined Court Complex, Nagapattinam, Tamil Nadu - 611001",
+        "mapParams": "Principal+District+Court+Nagapattinam"
+      },
+      {
+        "name": "Chief Judicial Magistrate Court",
+        "address": "Combined Court Complex, Nagapattinam, Tamil Nadu - 611001",
+        "mapParams": "Chief+Judicial+Magistrate+Court+Nagapattinam"
+      },
+      {
+        "name": "Sub Court, Nagapattinam",
+        "address": "Combined Court Complex, Nagapattinam, Tamil Nadu - 611001",
+        "mapParams": "Sub+Court+Nagapattinam"
+      },
+      {
+        "name": "District Munsif Court, Thiruthuraipoondi",
+        "address": "Court Campus, Thiruthuraipoondi, Nagapattinam District, Tamil Nadu - 614713",
+        "mapParams": "District+Munsif+Court+Thiruthuraipoondi"
+      },
+      {
+        "name": "District Munsif Court, Vedaranyam",
+        "address": "Court Campus, Vedaranyam, Nagapattinam District, Tamil Nadu - 614810",
+        "mapParams": "District+Munsif+Court+Vedaranyam"
+      }
+    ]
+  },
+  {
+    "name": "Namakkal",
+    "courts": [
+      {
+        "name": "Principal District & Sessions Court",
+        "address": "Combined Court Complex, Namakkal, Tamil Nadu - 637001",
+        "mapParams": "Principal+District+Court+Namakkal"
+      },
+      {
+        "name": "Additional District & Sessions Court",
+        "address": "Combined Court Complex, Namakkal, Tamil Nadu - 637001",
+        "mapParams": "Additional+District+Court+Namakkal"
+      },
+      {
+        "name": "Chief Judicial Magistrate Court",
+        "address": "Combined Court Complex, Namakkal, Tamil Nadu - 637001",
+        "mapParams": "Chief+Judicial+Magistrate+Court+Namakkal"
+      },
+      {
+        "name": "Sub Court, Tiruchengode",
+        "address": "Court Complex, Tiruchengode, Namakkal District, Tamil Nadu - 637211",
+        "mapParams": "Sub+Court+Tiruchengode"
+      },
+      {
+        "name": "District Munsif Court, Rasipuram",
+        "address": "Court Campus, Rasipuram, Namakkal District, Tamil Nadu - 637408",
+        "mapParams": "District+Munsif+Court+Rasipuram"
+      }
+    ]
+  },
+  {
+    "name": "The Nilgiris",
+    "courts": [
+      {
+        "name": "Principal District & Sessions Court",
+        "address": "Combined Court Complex, Udhagamandalam (Ooty), Nilgiris District, Tamil Nadu - 643001",
+        "mapParams": "Principal+District+Court+Ooty"
+      },
+      {
+        "name": "Chief Judicial Magistrate Court",
+        "address": "Combined Court Complex, Udhagamandalam (Ooty), Nilgiris District, Tamil Nadu - 643001",
+        "mapParams": "Chief+Judicial+Magistrate+Court+Ooty"
+      },
+      {
+        "name": "Sub Court, Coonoor",
+        "address": "Court Campus, Coonoor, Nilgiris District, Tamil Nadu - 643102",
+        "mapParams": "Sub+Court+Coonoor"
+      },
+      {
+        "name": "District Munsif Court, Gudalur",
+        "address": "Court Campus, Gudalur, Nilgiris District, Tamil Nadu - 643212",
+        "mapParams": "District+Munsif+Court+Gudalur"
+      }
+    ]
+  },
+  {
+    "name": "Perambalur",
+    "courts": [
+      {
+        "name": "Principal District & Sessions Court",
+        "address": "Combined Court Complex, Perambalur, Tamil Nadu - 621212",
+        "mapParams": "Principal+District+Court+Perambalur"
+      },
+      {
+        "name": "Chief Judicial Magistrate Court",
+        "address": "Combined Court Complex, Perambalur, Tamil Nadu - 621212",
+        "mapParams": "Chief+Judicial+Magistrate+Court+Perambalur"
+      },
+      {
+        "name": "Sub Court, Perambalur",
+        "address": "Combined Court Complex, Perambalur, Tamil Nadu - 621212",
+        "mapParams": "Sub+Court+Perambalur"
+      },
+      {
+        "name": "District Munsif-cum-Judicial Magistrate Court, Veppanthattai",
+        "address": "Court Campus, Veppanthattai, Perambalur District, Tamil Nadu - 621116",
+        "mapParams": "District+Munsif+cum+Judicial+Magistrate+Court+Veppanthattai"
+      }
+    ]
+  },
+        {
+    "name": "Pudukkottai",
+    "courts": [
+      {
+        "name": "Principal District & Sessions Court",
+        "address": "Combined Court Complex, Pudukkottai, Tamil Nadu - 622001",
+        "mapParams": "Principal+District+Court+Pudukkottai"
+      },
+      {
+        "name": "Family Court",
+        "address": "Combined Court Complex, Pudukkottai, Tamil Nadu - 622001",
+        "mapParams": "Family+Court+Pudukkottai"
+      },
+      {
+        "name": "Chief Judicial Magistrate Court",
+        "address": "Combined Court Complex, Pudukkottai, Tamil Nadu - 622001",
+        "mapParams": "Chief+Judicial+Magistrate+Court+Pudukkottai"
+      },
+      {
+        "name": "Sub Court, Aranthangi",
+        "address": "Court Campus, Aranthangi, Pudukkottai District, Tamil Nadu - 614616",
+        "mapParams": "Sub+Court+Aranthangi"
+      },
+      {
+        "name": "District Munsif Court, Alangudi",
+        "address": "Court Campus, Alangudi, Pudukkottai District, Tamil Nadu - 622301",
+        "mapParams": "District+Munsif+Court+Alangudi"
+      }
+    ]
+  },
+  {
+    "name": "Ramanathapuram",
+    "courts": [
+      {
+        "name": "Principal District & Sessions Court",
+        "address": "Combined Court Complex, Ramanathapuram, Tamil Nadu - 623501",
+        "mapParams": "Principal+District+Court+Ramanathapuram"
+      },
+      {
+        "name": "Chief Judicial Magistrate Court",
+        "address": "Combined Court Complex, Ramanathapuram, Tamil Nadu - 623501",
+        "mapParams": "Chief+Judicial+Magistrate+Court+Ramanathapuram"
+      },
+      {
+        "name": "Sub Court, Paramakudi",
+        "address": "Court Campus, Paramakudi, Ramanathapuram District, Tamil Nadu - 623707",
+        "mapParams": "Sub+Court+Paramakudi"
+      },
+      {
+        "name": "District Munsif Court, Rameswaram",
+        "address": "Court Campus, Rameswaram, Ramanathapuram District, Tamil Nadu - 623526",
+        "mapParams": "District+Munsif+Court+Rameswaram"
+      },
+      {
+        "name": "District Munsif-cum-Judicial Magistrate Court, Mudukulathur",
+        "address": "Court Campus, Mudukulathur, Ramanathapuram District, Tamil Nadu - 623704",
+        "mapParams": "District+Munsif+cum+Judicial+Magistrate+Court+Mudukulathur"
+      }
+    ]
+  },
+  {
+    "name": "Ranipet",
+    "courts": [
+      {
+        "name": "Principal District & Sessions Court",
+        "address": "Combined Court Complex, Ranipet, Tamil Nadu - 632401",
+        "mapParams": "Principal+District+Court+Ranipet"
+      },
+      {
+        "name": "Chief Judicial Magistrate Court",
+        "address": "Combined Court Complex, Ranipet, Tamil Nadu - 632401",
+        "mapParams": "Chief+Judicial+Magistrate+Court+Ranipet"
+      },
+      {
+        "name": "Sub Court, Arakkonam",
+        "address": "Court Campus, Arakkonam, Ranipet District, Tamil Nadu - 631001",
+        "mapParams": "Sub+Court+Arakkonam"
+      },
+      {
+        "name": "District Munsif Court, Arcot",
+        "address": "Court Campus, Arcot, Ranipet District, Tamil Nadu - 632503",
+        "mapParams": "District+Munsif+Court+Arcot"
+      },
+      {
+        "name": "District Munsif-cum-Judicial Magistrate Court, Sholinghur",
+        "address": "Court Campus, Sholinghur, Ranipet District, Tamil Nadu - 631102",
+        "mapParams": "District+Munsif+cum+Judicial+Magistrate+Court+Sholinghur"
+      }
+    ]
+  },
+  {
+    "name": "Salem",
+    "courts": [
+      {
+        "name": "Principal District & Sessions Court",
+        "address": "Combined Court Complex, Hasthampatti, Salem, Tamil Nadu - 636007",
+        "mapParams": "Principal+District+Court+Salem"
+      },
+      {
+        "name": "Family Court",
+        "address": "Combined Court Complex, Hasthampatti, Salem, Tamil Nadu - 636007",
+        "mapParams": "Family+Court+Salem"
+      },
+      {
+        "name": "Chief Judicial Magistrate Court",
+        "address": "Combined Court Complex, Hasthampatti, Salem, Tamil Nadu - 636007",
+        "mapParams": "Chief+Judicial+Magistrate+Court+Salem"
+      },
+      {
+        "name": "Sub Court, Attur",
+        "address": "Court Campus, Attur, Salem District, Tamil Nadu - 636102",
+        "mapParams": "Sub+Court+Attur"
+      },
+      {
+        "name": "District Munsif Court, Mettur",
+        "address": "Court Campus, Mettur, Salem District, Tamil Nadu - 636401",
+        "mapParams": "District+Munsif+Court+Mettur"
+      }
+    ]
+  },
+  {
+    "name": "Sivaganga",
+    "courts": [
+      {
+        "name": "Principal District & Sessions Court",
+        "address": "Combined Court Complex, Sivaganga, Tamil Nadu - 630561",
+        "mapParams": "Principal+District+Court+Sivaganga"
+      },
+      {
+        "name": "Chief Judicial Magistrate Court",
+        "address": "Combined Court Complex, Sivaganga, Tamil Nadu - 630561",
+        "mapParams": "Chief+Judicial+Magistrate+Court+Sivaganga"
+      },
+      {
+        "name": "Sub Court, Karaikudi",
+        "address": "Court Campus, Karaikudi, Sivaganga District, Tamil Nadu - 630001",
+        "mapParams": "Sub+Court+Karaikudi"
+      },
+      {
+        "name": "District Munsif Court, Devakottai",
+        "address": "Court Campus, Devakottai, Sivaganga District, Tamil Nadu - 630302",
+        "mapParams": "District+Munsif+Court+Devakottai"
+      },
+      {
+        "name": "District Munsif-cum-Judicial Magistrate Court, Tiruppathur",
+        "address": "Court Campus, Tiruppathur, Sivaganga District, Tamil Nadu - 630211",
+        "mapParams": "District+Munsif+cum+Judicial+Magistrate+Court+Tiruppathur"
+      }
+    ]
+  },
+        {
+    "name": "Tenkasi",
+    "courts": [
+      {
+        "name": "Principal District & Sessions Court",
+        "address": "Combined Court Complex, Tenkasi, Tamil Nadu - 627811",
+        "mapParams": "Principal+District+Court+Tenkasi"
+      },
+      {
+        "name": "Chief Judicial Magistrate Court",
+        "address": "Combined Court Complex, Tenkasi, Tamil Nadu - 627811",
+        "mapParams": "Chief+Judicial+Magistrate+Court+Tenkasi"
+      },
+      {
+        "name": "Sub Court, Tenkasi",
+        "address": "Combined Court Complex, Tenkasi, Tamil Nadu - 627811",
+        "mapParams": "Sub+Court+Tenkasi"
+      },
+      {
+        "name": "District Munsif Court, Shencottai",
+        "address": "Court Campus, Shencottai, Tenkasi District, Tamil Nadu - 627809",
+        "mapParams": "District+Munsif+Court+Shencottai"
+      },
+      {
+        "name": "District Munsif-cum-Judicial Magistrate Court, Sankarankovil",
+        "address": "Court Campus, Sankarankovil, Tenkasi District, Tamil Nadu - 627756",
+        "mapParams": "District+Munsif+cum+Judicial+Magistrate+Court+Sankarankovil"
+      }
+    ]
+  },
+  {
+    "name": "Thanjavur",
+    "courts": [
+      {
+        "name": "Principal District & Sessions Court",
+        "address": "Combined Court Complex, Thanjavur, Tamil Nadu - 613001",
+        "mapParams": "Principal+District+Court+Thanjavur"
+      },
+      {
+        "name": "Family Court",
+        "address": "Combined Court Complex, Thanjavur, Tamil Nadu - 613001",
+        "mapParams": "Family+Court+Thanjavur"
+      },
+      {
+        "name": "Chief Judicial Magistrate Court",
+        "address": "Combined Court Complex, Thanjavur, Tamil Nadu - 613001",
+        "mapParams": "Chief+Judicial+Magistrate+Court+Thanjavur"
+      },
+      {
+        "name": "Sub Court, Kumbakonam",
+        "address": "Court Campus, Kumbakonam, Thanjavur District, Tamil Nadu - 612001",
+        "mapParams": "Sub+Court+Kumbakonam"
+      },
+      {
+        "name": "District Munsif Court, Pattukkottai",
+        "address": "Court Campus, Pattukkottai, Thanjavur District, Tamil Nadu - 614601",
+        "mapParams": "District+Munsif+Court+Pattukkottai"
+      }
+    ]
+  },
+  {
+    "name": "Theni",
+    "courts": [
+      {
+        "name": "Principal District & Sessions Court",
+        "address": "Combined Court Complex, Theni, Tamil Nadu - 625531",
+        "mapParams": "Principal+District+Court+Theni"
+      },
+      {
+        "name": "Chief Judicial Magistrate Court",
+        "address": "Combined Court Complex, Theni, Tamil Nadu - 625531",
+        "mapParams": "Chief+Judicial+Magistrate+Court+Theni"
+      },
+      {
+        "name": "Sub Court, Periyakulam",
+        "address": "Court Campus, Periyakulam, Theni District, Tamil Nadu - 625601",
+        "mapParams": "Sub+Court+Periyakulam"
+      },
+      {
+        "name": "District Munsif Court, Bodinayakanur",
+        "address": "Court Campus, Bodinayakanur, Theni District, Tamil Nadu - 625513",
+        "mapParams": "District+Munsif+Court+Bodinayakanur"
+      },
+      {
+        "name": "District Munsif-cum-Judicial Magistrate Court, Uthamapalayam",
+        "address": "Court Campus, Uthamapalayam, Theni District, Tamil Nadu - 625533",
+        "mapParams": "District+Munsif+cum+Judicial+Magistrate+Court+Uthamapalayam"
+      }
+    ]
+  },
+  {
+    "name": "Tuticorin",
+    "courts": [
+      {
+        "name": "Principal District & Sessions Court",
+        "address": "Combined Court Complex, Thoothukudi, Tamil Nadu - 628002",
+        "mapParams": "Principal+District+Court+Thoothukudi"
+      },
+      {
+        "name": "Family Court",
+        "address": "Combined Court Complex, Thoothukudi, Tamil Nadu - 628002",
+        "mapParams": "Family+Court+Thoothukudi"
+      },
+      {
+        "name": "Chief Judicial Magistrate Court",
+        "address": "Combined Court Complex, Thoothukudi, Tamil Nadu - 628002",
+        "mapParams": "Chief+Judicial+Magistrate+Court+Thoothukudi"
+      },
+      {
+        "name": "Sub Court, Kovilpatti",
+        "address": "Court Campus, Kovilpatti, Thoothukudi District, Tamil Nadu - 628501",
+        "mapParams": "Sub+Court+Kovilpatti"
+      },
+      {
+        "name": "District Munsif Court, Tiruchendur",
+        "address": "Court Campus, Tiruchendur, Thoothukudi District, Tamil Nadu - 628215",
+        "mapParams": "District+Munsif+Court+Tiruchendur"
+      }
+    ]
+  },
+      {
+    "name": "Thiruvallur",
+    "courts": [
+      {
+        "name": "Principal District & Sessions Court",
+        "address": "Combined Court Complex, Tiruvallur, Tamil Nadu - 602001",
+        "mapParams": "Principal+District+Court+Tiruvallur"
+      },
+      {
+        "name": "Family Court",
+        "address": "Combined Court Complex, Tiruvallur, Tamil Nadu - 602001",
+        "mapParams": "Family+Court+Tiruvallur"
+      },
+      {
+        "name": "Chief Judicial Magistrate Court",
+        "address": "Combined Court Complex, Tiruvallur, Tamil Nadu - 602001",
+        "mapParams": "Chief+Judicial+Magistrate+Court+Tiruvallur"
+      },
+      {
+        "name": "Sub Court, Poonamallee",
+        "address": "Court Complex, Poonamallee, Tiruvallur District, Tamil Nadu - 600056",
+        "mapParams": "Sub+Court+Poonamallee"
+      },
+      {
+        "name": "District Munsif Court, Ambattur",
+        "address": "Court Campus, Ambattur, Tiruvallur District, Tamil Nadu - 600053",
+        "mapParams": "District+Munsif+Court+Ambattur"
+      }
+    ]
+  },
+  {
+    "name": "Thiruvarur",
+    "courts": [
+      {
+        "name": "Principal District & Sessions Court",
+        "address": "Combined Court Complex, Tiruvarur, Tamil Nadu - 610001",
+        "mapParams": "Principal+District+Court+Tiruvarur"
+      },
+      {
+        "name": "Chief Judicial Magistrate Court",
+        "address": "Combined Court Complex, Tiruvarur, Tamil Nadu - 610001",
+        "mapParams": "Chief+Judicial+Magistrate+Court+Tiruvarur"
+      },
+      {
+        "name": "Sub Court, Mannargudi",
+        "address": "Court Campus, Mannargudi, Tiruvarur District, Tamil Nadu - 614001",
+        "mapParams": "Sub+Court+Mannargudi"
+      },
+      {
+        "name": "District Munsif Court, Thiruthuraipoondi",
+        "address": "Court Campus, Thiruthuraipoondi, Tiruvarur District, Tamil Nadu - 614713",
+        "mapParams": "District+Munsif+Court+Thiruthuraipoondi"
+      },
+      {
+        "name": "District Munsif-cum-Judicial Magistrate Court, Nannilam",
+        "address": "Court Campus, Nannilam, Tiruvarur District, Tamil Nadu - 610105",
+        "mapParams": "District+Munsif+cum+Judicial+Magistrate+Court+Nannilam"
+      }
+    ]
+  },
+        {
+    "name": "Tiruchirappalli",
+    "courts": [
+      {
+        "name": "Principal District & Sessions Court",
+        "address": "Combined Court Complex, Cantonment, Tiruchirappalli, Tamil Nadu - 620001",
+        "mapParams": "Principal+District+Court+Tiruchirappalli"
+      },
+      {
+        "name": "Family Court",
+        "address": "Combined Court Complex, Cantonment, Tiruchirappalli, Tamil Nadu - 620001",
+        "mapParams": "Family+Court+Tiruchirappalli"
+      },
+      {
+        "name": "Chief Judicial Magistrate Court",
+        "address": "Combined Court Complex, Cantonment, Tiruchirappalli, Tamil Nadu - 620001",
+        "mapParams": "Chief+Judicial+Magistrate+Court+Tiruchirappalli"
+      },
+      {
+        "name": "Sub Court, Lalgudi",
+        "address": "Court Campus, Lalgudi, Tiruchirappalli District, Tamil Nadu - 621601",
+        "mapParams": "Sub+Court+Lalgudi"
+      },
+      {
+        "name": "District Munsif Court, Musiri",
+        "address": "Court Campus, Musiri, Tiruchirappalli District, Tamil Nadu - 621211",
+        "mapParams": "District+Munsif+Court+Musiri"
+      }
+    ]
+  },
+  {
+    "name": "Tirunelveli",
+    "courts": [
+      {
+        "name": "Principal District & Sessions Court",
+        "address": "Combined Court Complex, Tirunelveli, Tamil Nadu - 627002",
+        "mapParams": "Principal+District+Court+Tirunelveli"
+      },
+      {
+        "name": "Family Court",
+        "address": "Combined Court Complex, Tirunelveli, Tamil Nadu - 627002",
+        "mapParams": "Family+Court+Tirunelveli"
+      },
+      {
+        "name": "Chief Judicial Magistrate Court",
+        "address": "Combined Court Complex, Tirunelveli, Tamil Nadu - 627002",
+        "mapParams": "Chief+Judicial+Magistrate+Court+Tirunelveli"
+      },
+      {
+        "name": "Sub Court, Ambasamudram",
+        "address": "Court Campus, Ambasamudram, Tirunelveli District, Tamil Nadu - 627401",
+        "mapParams": "Sub+Court+Ambasamudram"
+      },
+      {
+        "name": "District Munsif Court, Tenkasi",
+        "address": "Court Campus, Tenkasi, Tirunelveli District, Tamil Nadu - 627811",
+        "mapParams": "District+Munsif+Court+Tenkasi"
+      }
+    ]
+  },
+  {
+    "name": "Tirupathur",
+    "courts": [
+      {
+        "name": "Principal District & Sessions Court",
+        "address": "Combined Court Complex, Tirupathur, Tamil Nadu - 635601",
+        "mapParams": "Principal+District+Court+Tirupathur"
+      },
+      {
+        "name": "Chief Judicial Magistrate Court",
+        "address": "Combined Court Complex, Tirupathur, Tamil Nadu - 635601",
+        "mapParams": "Chief+Judicial+Magistrate+Court+Tirupathur"
+      },
+      {
+        "name": "Sub Court, Tirupathur",
+        "address": "Combined Court Complex, Tirupathur, Tamil Nadu - 635601",
+        "mapParams": "Sub+Court+Tirupathur"
+      },
+      {
+        "name": "District Munsif Court, Ambur",
+        "address": "Court Campus, Ambur, Tirupathur District, Tamil Nadu - 635802",
+        "mapParams": "District+Munsif+Court+Ambur"
+      },
+      {
+        "name": "District Munsif-cum-Judicial Magistrate Court, Vaniyambadi",
+        "address": "Court Campus, Vaniyambadi, Tirupathur District, Tamil Nadu - 635751",
+        "mapParams": "District+Munsif+cum+Judicial+Magistrate+Court+Vaniyambadi"
+      }
+    ]
+  },
+  {
+    "name": "Tiruppur",
+    "courts": [
+      {
+        "name": "Principal District & Sessions Court",
+        "address": "Combined Court Complex, Tiruppur, Tamil Nadu - 641602",
+        "mapParams": "Principal+District+Court+Tiruppur"
+      },
+      {
+        "name": "Family Court",
+        "address": "Combined Court Complex, Tiruppur, Tamil Nadu - 641602",
+        "mapParams": "Family+Court+Tiruppur"
+      },
+      {
+        "name": "Chief Judicial Magistrate Court",
+        "address": "Combined Court Complex, Tiruppur, Tamil Nadu - 641602",
+        "mapParams": "Chief+Judicial+Magistrate+Court+Tiruppur"
+      },
+      {
+        "name": "Sub Court, Dharapuram",
+        "address": "Court Campus, Dharapuram, Tiruppur District, Tamil Nadu - 638656",
+        "mapParams": "Sub+Court+Dharapuram"
+      },
+      {
+        "name": "District Munsif Court, Avinashi",
+        "address": "Court Campus, Avinashi, Tiruppur District, Tamil Nadu - 641654",
+        "mapParams": "District+Munsif+Court+Avinashi"
+      }
+    ]
+  },
+      {
+    "name": "Tiruvannamalai",
+    "courts": [
+      {
+        "name": "Principal District & Sessions Court",
+        "address": "Combined Court Complex, Tiruvannamalai, Tamil Nadu - 606601",
+        "mapParams": "Principal+District+Court+Tiruvannamalai"
+      },
+      {
+        "name": "Family Court",
+        "address": "Combined Court Complex, Tiruvannamalai, Tamil Nadu - 606601",
+        "mapParams": "Family+Court+Tiruvannamalai"
+      },
+      {
+        "name": "Chief Judicial Magistrate Court",
+        "address": "Combined Court Complex, Tiruvannamalai, Tamil Nadu - 606601",
+        "mapParams": "Chief+Judicial+Magistrate+Court+Tiruvannamalai"
+      },
+      {
+        "name": "Sub Court, Cheyyar",
+        "address": "Court Campus, Cheyyar, Tiruvannamalai District, Tamil Nadu - 604407",
+        "mapParams": "Sub+Court+Cheyyar"
+      },
+      {
+        "name": "District Munsif Court, Polur",
+        "address": "Court Campus, Polur, Tiruvannamalai District, Tamil Nadu - 606803",
+        "mapParams": "District+Munsif+Court+Polur"
+      }
+    ]
+  },
+  {
+    "name": "Vellore",
+    "courts": [
+      {
+        "name": "Principal District & Sessions Court",
+        "address": "Combined Court Complex, Vellore, Tamil Nadu - 632009",
+        "mapParams": "Principal+District+Court+Vellore"
+      },
+      {
+        "name": "Family Court",
+        "address": "Combined Court Complex, Vellore, Tamil Nadu - 632009",
+        "mapParams": "Family+Court+Vellore"
+      },
+      {
+        "name": "Chief Judicial Magistrate Court",
+        "address": "Combined Court Complex, Vellore, Tamil Nadu - 632009",
+        "mapParams": "Chief+Judicial+Magistrate+Court+Vellore"
+      },
+      {
+        "name": "Sub Court, Gudiyatham",
+        "address": "Court Campus, Gudiyatham, Vellore District, Tamil Nadu - 632602",
+        "mapParams": "Sub+Court+Gudiyatham"
+      },
+      {
+        "name": "District Munsif Court, Katpadi",
+        "address": "Court Campus, Katpadi, Vellore District, Tamil Nadu - 632007",
+        "mapParams": "District+Munsif+Court+Katpadi"
+      }
+    ]
+  },
+       {
+    "name": "Villupuram",
+    "courts": [
+      {
+        "name": "Principal District & Sessions Court",
+        "address": "Combined Court Complex, Viluppuram, Tamil Nadu - 605602",
+        "mapParams": "Principal+District+Court+Viluppuram"
+      },
+      {
+        "name": "Chief Judicial Magistrate Court",
+        "address": "Combined Court Complex, Viluppuram, Tamil Nadu - 605602",
+        "mapParams": "Chief+Judicial+Magistrate+Court+Viluppuram"
+      },
+      {
+        "name": "Sub Court, Tindivanam",
+        "address": "Court Campus, Tindivanam, Viluppuram District, Tamil Nadu - 604001",
+        "mapParams": "Sub+Court+Tindivanam"
+      },
+      {
+        "name": "District Munsif Court, Gingee",
+        "address": "Court Campus, Gingee, Viluppuram District, Tamil Nadu - 604202",
+        "mapParams": "District+Munsif+Court+Gingee"
+      },
+      {
+        "name": "District Munsif-cum-Judicial Magistrate Court, Kallakurichi (Old Jurisdiction)",
+        "address": "Court Campus, Viluppuram District, Tamil Nadu - 606202",
+        "mapParams": "District+Munsif+Court+Viluppuram"
+      }
+    ]
+  },
+  {
+    "name": "Virudhunagar",
+    "courts": [
+      {
+        "name": "Principal District & Sessions Court",
+        "address": "Combined Court Complex, Virudhunagar, Tamil Nadu - 626001",
+        "mapParams": "Principal+District+Court+Virudhunagar"
+      },
+      {
+        "name": "Family Court",
+        "address": "Combined Court Complex, Virudhunagar, Tamil Nadu - 626001",
+        "mapParams": "Family+Court+Virudhunagar"
+      },
+      {
+        "name": "Chief Judicial Magistrate Court",
+        "address": "Combined Court Complex, Virudhunagar, Tamil Nadu - 626001",
+        "mapParams": "Chief+Judicial+Magistrate+Court+Virudhunagar"
+      },
+      {
+        "name": "Sub Court, Srivilliputhur",
+        "address": "Court Campus, Srivilliputhur, Virudhunagar District, Tamil Nadu - 626125",
+        "mapParams": "Sub+Court+Srivilliputhur"
+      },
+      {
+        "name": "District Munsif Court, Sivakasi",
+        "address": "Court Campus, Sivakasi, Virudhunagar District, Tamil Nadu - 626123",
+        "mapParams": "District+Munsif+Court+Sivakasi"
+      }
+    ]
+  }
+    ]
+  },
+  {
+    "state": "Karnataka",
+    "districts": [
+      {
+        "name": "Bengaluru",
+        "courts": [
+          {
+            "name": "High Court of Karnataka",
+            "address": "Ambedkar Veedhi, Bengaluru, Karnataka 560001",
+            "mapParams": "High+Court+of+Karnataka"
+          },
+          {
+            "name": "City Civil Court Complex",
+            "address": "KG Road, Bengaluru, Karnataka 560009",
+            "mapParams": "City+Civil+Court+Bengaluru"
+          },
+          {
+            "name": "Mayo Hall Courts",
+            "address": "MG Road, Bengaluru, Karnataka 560001",
+            "mapParams": "Mayo+Hall+Court+Bengaluru"
+          }
+        ]
+      },
+      {
+        "name": "Mysuru",
+        "courts": [
+          {
+            "name": "District Court Complex",
+            "address": "Chamarajapuram, Mysuru, Karnataka 570005",
+            "mapParams": "District+Court+Mysuru"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "state": "Kerala",
+    "districts": [
+      {
+        "name": "Ernakulam",
+        "courts": [
+          {
+            "name": "High Court of Kerala",
+            "address": "Ernakulam North, Kochi, Kerala 682031",
+            "mapParams": "High+Court+of+Kerala"
+          },
+          {
+            "name": "district Court Complex",
+            "address": "Park Avenue, Kochi, Kerala 682011",
+            "mapParams": "District+Court+Ernakulam"
+          }
+        ]
+      },
+      {
+        "name": "Thiruvananthapuram",
+        "courts": [
+          {
+            "name": "District Court Vanchiyoor",
+            "address": "Vanchiyoor, Thiruvananthapuram, Kerala 695035",
+            "mapParams": "District+Court+Vanchiyoor"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "state": "Andhra Pradesh",
+    "districts": [
+      {
+        "name": "Amaravati",
+        "courts": [
+          {
+            "name": "High Court of Andhra Pradesh",
+            "address": "Nelapadu, Amaravati, Andhra Pradesh 522237",
+            "mapParams": "High+Court+of+Andhra+Pradesh"
+          }
+        ]
+      },
+      {
+        "name": "Visakhapatnam",
+        "courts": [
+          {
+            "name": "District Court Complex",
+            "address": "Maharanipeta, Visakhapatnam, Andhra Pradesh 530002",
+            "mapParams": "District+Court+Visakhapatnam"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "state": "Telangana",
+    "districts": [
+      {
+        "name": "Hyderabad",
+        "courts": [
+          {
+            "name": "High Court for Telangana",
+            "address": "Ghansi Bazaar, Hyderabad, Telangana 500066",
+            "mapParams": "High+Court+for+Telangana"
+          },
+          {
+            "name": "City Civil Court",
+            "address": "Purani Haveli, Hyderabad, Telangana 500002",
+            "mapParams": "City+Civil+Court+Hyderabad"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "state": "Maharashtra",
+    "districts": [
+      {
+        "name": "Mumbai",
+        "courts": [
+          {
+            "name": "Bombay High Court",
+            "address": "Fort, Mumbai, Maharashtra 400032",
+            "mapParams": "Bombay+High+Court"
+          },
+          {
+            "name": "City Civil & Sessions Court",
+            "address": "Old Secretariat, Fort, Mumbai, Maharashtra 400032",
+            "mapParams": "City+Civil+Sessions+Court+Mumbai"
+          }
+        ]
+      },
+      {
+        "name": "Pune",
+        "courts": [
+          {
+            "name": "District Court Shivajinagar",
+            "address": "Shivajinagar, Pune, Maharashtra 411005",
+            "mapParams": "District+Court+Pune"
+          }
+        ]
+      }
+    ]
+  }
+]
