@@ -1,0 +1,52 @@
+name: CI/CD Deployment to AWS EC2
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Deploy to Server via SSH
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.EC2_HOST }}
+          username: ${{ secrets.EC2_USER }}
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          script: |
+            # Navigate to the project directory
+            # If it doesn't exist, clone it first (unlikely since we're updating)
+            if [ ! -d "~/legal-hub" ]; then
+              git clone https://github.com/marveloussystem0-design/legal-hub.git ~/legal-hub
+            fi
+            
+            cd ~/legal-hub
+            
+            # Pull latest code
+            git pull origin main
+            
+            # Create .env files from secrets (optional, but cleaner than mounting volume)
+            # You should add these secrets in GitHub Settings -> Secrets
+            echo "NEXT_PUBLIC_SUPABASE_URL=${{ secrets.NEXT_PUBLIC_SUPABASE_URL }}" > web/.env.local
+            echo "NEXT_PUBLIC_SUPABASE_ANON_KEY=${{ secrets.NEXT_PUBLIC_SUPABASE_ANON_KEY }}" >> web/.env.local
+            echo "SUPABASE_SERVICE_ROLE_KEY=${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}" >> web/.env.local
+            echo "NEXT_PUBLIC_APP_URL=http://${{ secrets.EC2_HOST }}:3000" >> web/.env.local
+            echo "NEXT_PUBLIC_ENCRYPTION_SALT=${{ secrets.NEXT_PUBLIC_ENCRYPTION_SALT }}" >> web/.env.local
+            echo "CRON_SECRET=${{ secrets.CRON_SECRET }}" >> web/.env.local
+            
+            # For the DB (if using local PG)
+            echo "DB_USER=${{ secrets.DB_USER }}" > .env
+            echo "DB_PASSWORD=${{ secrets.DB_PASSWORD }}" >> .env
+            echo "DB_NAME=${{ secrets.DB_NAME }}" >> .env
+            
+            # Rebuild and restart containers
+            docker compose down
+            docker compose up --build -d
+            
+            # Clean up old images to save space on EC2
+            docker image prune -f
