@@ -1,21 +1,3 @@
--- Legal Services Platform Database Schema
--- Web-First MVP Focus: Authentication, Case Search, Document Management
-
--- Enable UUID extension
-CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
-
--- DROP TABLES IF EXISTS (Reverse Order of Dependencies)
-DROP TABLE IF EXISTS subscriptions CASCADE;
-DROP TABLE IF EXISTS payments CASCADE;
-DROP TABLE IF EXISTS notifications CASCADE;
-DROP TABLE IF EXISTS messages CASCADE;
-DROP TABLE IF EXISTS documents CASCADE;
-DROP TABLE IF EXISTS case_hearings CASCADE;
-DROP TABLE IF EXISTS case_participants CASCADE;
-DROP TABLE IF EXISTS cases CASCADE;
-DROP TABLE IF EXISTS clients CASCADE;
-DROP TABLE IF EXISTS advocates CASCADE;
-DROP TABLE IF EXISTS users CASCADE;
 
 -- Users and Authentication
 CREATE TABLE users (
