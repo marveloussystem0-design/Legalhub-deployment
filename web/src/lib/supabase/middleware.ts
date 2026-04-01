@@ -8,13 +8,10 @@ export async function updateSession(request: NextRequest) {
     },
   })
 
-  // Determine if we are in a secure context where 'Secure' cookies are allowed.
-  // IPv4 addresses over HTTP are NOT secure contexts.
-  const origin = request.nextUrl.origin;
-  const isIP = origin.includes('192.168.') || origin.includes('10.') || origin.includes('172.');
-  const isLocalhost = origin.includes('localhost') || origin.includes('127.0.0.1');
-  const secure = !isIP && !isLocalhost;
-  const httpOnly = !isIP && !isLocalhost;
+  // Only mark auth cookies as secure when the incoming request is HTTPS.
+  const forwardedProto = request.headers.get('x-forwarded-proto');
+  const secure = request.nextUrl.protocol === 'https:' || forwardedProto === 'https';
+  const httpOnly = secure;
 
   const supabase = createServerClient(
     process.env.NEXT_PUBLIC_SUPABASE_URL!,

@@ -1,5 +1,13 @@
+import type { Browser } from 'puppeteer';
 
-import puppeteer, { Browser } from 'puppeteer';
+let puppeteerModulePromise: Promise<typeof import('puppeteer')> | null = null;
+
+async function loadPuppeteer() {
+  if (!puppeteerModulePromise) {
+    puppeteerModulePromise = import('puppeteer');
+  }
+  return puppeteerModulePromise;
+}
 
 /**
  * Singleton Puppeteer Client
@@ -43,7 +51,9 @@ class PuppeteerClient {
     try {
       console.log('🚀 [Puppeteer] Launching new browser instance...');
       const executablePath = process.env.PUPPETEER_EXECUTABLE_PATH;
-      this.browser = await puppeteer.launch({
+      const puppeteer = await loadPuppeteer();
+
+      this.browser = await puppeteer.default.launch({
         headless: true, // Run in background
         args: [
           '--no-sandbox', 

@@ -1,6 +1,5 @@
 import { createClient } from "@/lib/supabase/server";
 import { getEffectiveSubscription } from "@/lib/billing/access";
-import { createAdminClient } from "@/utils/supabase/server";
 import CreateCaseModal from "./create-case-modal";
 import CaseListView from "../case-list-view"; // Adjust import path
 import Link from "next/link";
@@ -80,8 +79,7 @@ export default async function AdvocateCasesPage({
 
   // Get current user
   const { data: { user } } = await supabase.auth.getUser();
-  const admin = await createAdminClient();
-  const subscription = user ? await getEffectiveSubscription(admin, user.id) : null;
+  const subscription = user ? await getEffectiveSubscription(supabase, user.id) : null;
   
   let cases: EnrichedCase[] = [];
   let allHearings: CaseHearing[] | null = [];

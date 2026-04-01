@@ -1,7 +1,5 @@
-
 'use server';
 
-import { TNEcourtsScraper } from '@/lib/scrapers/tn-ecourts-scraper';
 import { createClient } from '@/utils/supabase/server';
 import { revalidatePath } from 'next/cache';
 import {
@@ -39,6 +37,38 @@ type MetadataLike = {
   [key: string]: unknown;
 };
 
+async function getTNEcourtsScraper() {
+  const mod = await import('@/lib/scrapers/tn-ecourts-scraper');
+  return mod.TNEcourtsScraper;
+}
+
+function normalizeEcourtsRuntimeError(error: unknown): string {
+  const message = getErrorMessage(error);
+  const lower = message.toLowerCase();
+
+  if (
+    lower.includes('failed to launch browser') ||
+    lower.includes('could not find chrome') ||
+    lower.includes('could not find chromium') ||
+    lower.includes('browser was not found') ||
+    lower.includes('spawn') ||
+    lower.includes('executable')
+  ) {
+    return 'eCourts sync browser could not start on the server. Please contact support or retry shortly.';
+  }
+
+  if (
+    lower.includes('net::err') ||
+    lower.includes('failed to navigate') ||
+    lower.includes('navigation timeout') ||
+    lower.includes('timeout')
+  ) {
+    return 'Could not reach the eCourts portal right now. Please retry in a moment.';
+  }
+
+  return message;
+}
+
 function getErrorMessage(error: unknown): string {
   if (error instanceof Error) return error.message;
   return 'Internal Server Error';
@@ -51,6 +81,7 @@ function getErrorMessage(error: unknown): string {
 export async function fetchTNCaptchaAction(cnr?: string): Promise<CaptchaResponse> {
   try {
     console.log(`⚡ [Action] Requesting TN Captcha ${cnr ? 'for ' + cnr : ''}...`);
+    const TNEcourtsScraper = await getTNEcourtsScraper();
     const result = await TNEcourtsScraper.fetchCaptcha(cnr);
 
     if (result.status === 'success' && result.imageBase64) {
@@ -69,7 +100,7 @@ export async function fetchTNCaptchaAction(cnr?: string): Promise<CaptchaRespons
     console.error('❌ [Action] Error in fetchTNCaptchaAction:', error);
     return {
       success: false,
-      error: getErrorMessage(error)
+      error: normalizeEcourtsRuntimeError(error)
     };
   }
 }
@@ -181,6 +212,7 @@ export async function submitTNCaptchaAction(
 sessionId: string, code: string, cnr: string, caseId?: string): Promise<SyncResponse> {
     try {
         console.log('⚡ [Action] Submitting TN Captcha...');
+        const TNEcourtsScraper = await getTNEcourtsScraper();
         const result = await TNEcourtsScraper.submitCaptcha(sessionId, code, cnr);
 
         if (!result.success || !result.data) {
@@ -393,6 +425,6 @@ sessionId: string, code: string, cnr: string, caseId?: string): Promise<SyncResp
 
     } catch (error: unknown) {
         console.error('❌ [Action] Error in submitTNCaptchaAction:', error);
-        return { success: false, error: getErrorMessage(error) };
+        return { success: false, error: normalizeEcourtsRuntimeError(error) };
     }
 }
