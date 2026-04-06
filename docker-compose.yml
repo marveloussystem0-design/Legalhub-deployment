@@ -22,7 +22,7 @@ services:
     depends_on:
       - db
     ports:
-      - "3000:3000"
+      - "80:3000"
     environment:
       DATABASE_URL: postgresql://${DB_USER:-postgres}:${DB_PASSWORD:-postgres_password}@db:5432/${DB_NAME:-legalhub}
       NEXT_PUBLIC_SUPABASE_URL: ${NEXT_PUBLIC_SUPABASE_URL}
