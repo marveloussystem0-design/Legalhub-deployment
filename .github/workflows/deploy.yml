@@ -34,7 +34,7 @@ jobs:
             echo "NEXT_PUBLIC_SUPABASE_URL=${{ secrets.NEXT_PUBLIC_SUPABASE_URL }}" > .env
             echo "NEXT_PUBLIC_SUPABASE_ANON_KEY=${{ secrets.NEXT_PUBLIC_SUPABASE_ANON_KEY }}" >> .env
             echo "SUPABASE_SERVICE_ROLE_KEY=${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}" >> .env
-            echo "NEXT_PUBLIC_APP_URL=http://${{ secrets.EC2_HOST }}:3000" >> .env
+            echo "NEXT_PUBLIC_APP_URL=http://${{ secrets.EC2_HOST }}" >> .env
             echo "NEXT_PUBLIC_ENCRYPTION_SALT=${{ secrets.NEXT_PUBLIC_ENCRYPTION_SALT }}" >> .env
             echo "CRON_SECRET=${{ secrets.CRON_SECRET }}" >> .env
             echo "DB_USER=${{ secrets.DB_USER }}" >> .env
