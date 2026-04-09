@@ -46,15 +46,18 @@ ENV NODE_ENV=production
 # Puppeteer configuration
 ENV PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true
 ENV PUPPETEER_EXECUTABLE_PATH=/usr/bin/chromium
+ENV CHROME_USER_DATA_DIR=/tmp/chrome-data
+ENV XDG_CONFIG_HOME=/tmp/chrome-config
+ENV XDG_CACHE_HOME=/tmp/chrome-cache
 
 RUN addgroup --system --gid 1001 nodejs
 RUN adduser --system --uid 1001 nextjs
 
 COPY --from=builder /app/public ./public
 
-# Set the correct permission for prerender cache
-RUN mkdir .next
-RUN chown nextjs:nodejs .next
+# Set the correct permission for prerender cache and Chromium runtime dirs
+RUN mkdir .next /tmp/chrome-data /tmp/chrome-config /tmp/chrome-cache \
+    && chown -R nextjs:nodejs .next /tmp/chrome-data /tmp/chrome-config /tmp/chrome-cache
 
 # Automatically leverage output traces to reduce image size
 COPY --from=builder --chown=nextjs:nodejs /app/.next/standalone ./
