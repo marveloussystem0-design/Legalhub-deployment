@@ -72,10 +72,13 @@ class PuppeteerClient {
           '--disable-crashpad',
           '--disable-features=Crashpad',
           '--disable-features=Translate,BackForwardCache,AcceptCHFrame,MediaRouter',
+          '--disable-blink-features=AutomationControlled',
+          '--lang=en-US,en',
           `--user-data-dir=${userDataDir}`,
           `--data-path=${configHome}`,
           `--disk-cache-dir=${cacheHome}`
         ],
+        ignoreDefaultArgs: ['--enable-automation'],
         env: {
           ...process.env,
           XDG_CONFIG_HOME: configHome,

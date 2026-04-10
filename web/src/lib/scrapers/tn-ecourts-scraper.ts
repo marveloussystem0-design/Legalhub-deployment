@@ -114,13 +114,14 @@ export class TNEcourtsScraper {
       }
 
       // 4. Wait for the image to be fully loaded and decoded
+      console.log(`⏳ [TN Scraper] Waiting for captcha image to decode...`);
       await page.waitForFunction((sel: string) => {
           const img = document.querySelector(sel) as any;
-          return img && img.complete && img.naturalHeight > 0 && img.src && !img.src.includes('loading');
-      }, { timeout: 10000 }, finalSelector);
+          return img && img.complete && img.naturalHeight > 0 && img.src && !img.src.includes('loading') && img.src.length > 50;
+      }, { timeout: 20000 }, finalSelector);
 
       // Settle time for any background token updates
-      await new Promise(r => setTimeout(r, 1000));
+      await new Promise(r => setTimeout(r, 2000));
 
       const captchaElement = await page.$(finalSelector);
       if (!captchaElement) {

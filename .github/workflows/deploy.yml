@@ -51,5 +51,9 @@ jobs:
             # Clean up old images to save space on EC2
             docker image prune -f
             
-            # Clean up old images to save space on EC2
-            docker image prune -f
+            # Diagnostic Status Check
+            echo "--- DEPLOYMENT STATUS ---"
+            docker compose ps
+            echo "--- RECENT WEB LOGS ---"
+            docker compose logs web --tail 20
+
