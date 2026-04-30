@@ -44,15 +44,14 @@
         }
       ]
     ],
+    "updates": {
+      "enabled": false
+    },
     "experiments": {
       "typedRoutes": true
     },
     "extra": {
-      "router": {},
-      "eas": {
-        "projectId": "913565f7-8427-45d7-9b8c-5e877e2dca60"
-      }
-    },
-    "owner": "vishal_31114"
+      "router": {}
+    }
   }
 }

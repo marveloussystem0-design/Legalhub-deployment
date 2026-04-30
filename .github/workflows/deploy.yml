@@ -20,13 +20,14 @@ jobs:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           script: |
             # Navigate to the project directory
-            if [ ! -d "~/legal-hub" ]; then
-              git clone https://github.com/marveloussystem0-design/legal-hub.git ~/legal-hub
+            if [ ! -d "$HOME/legal-hub" ]; then
+              git clone https://${{ secrets.GH_PAT }}@github.com/marveloussystem0-design/legal-hub.git $HOME/legal-hub
             fi
             
-            cd ~/legal-hub
+            cd $HOME/legal-hub
             
-            # Pull latest code
+            # Pull latest code using PAT for auth
+            git remote set-url origin https://${{ secrets.GH_PAT }}@github.com/marveloussystem0-design/legal-hub.git
             git pull origin main
             
             # Create .env files from secrets 
